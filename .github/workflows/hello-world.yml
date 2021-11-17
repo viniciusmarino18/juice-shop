@@ -33,7 +33,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
  job2:
-   runs-on: windows-lastest
+   runs-on: windows-latest
      
    steps:
       - name: Checkout do repositorio
